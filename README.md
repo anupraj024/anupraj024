@@ -1,16 +1,18 @@
-## Hi there 👋
+# ✨ About Myself:
+👋 Hi, I’m Anup – A Curious Technologist on a Mission to Build Secure, Smart, and Scalable Solutions<br>🎓 3rd Year B.Tech Student in Computer Science Engineering<br>💡 Passionate about solving real-world problems at the intersection of Web Development, Cybersecurity, Blockchain, and Artificial Intelligence<br>🌍 Constantly exploring how emerging technologies can create a safer, smarter, and more connected digital future.<br><br>🚀 What I’m Building<br>🔐 1. Real-Time Cyber Incident Feed<br>A dynamic web app that aggregates and displays the latest cybersecurity news focused on India.<br><br>Built with: Python (Flask), BeautifulSoup, TailwindCSS<br><br>Features hourly updates via Google News RSS<br><br>Goal: Help professionals and researchers stay updated on India's cyber threat landscape<br><br>🪙 2. PII Authenticator – Blockchain ID Verification System<br>A secure system for authenticating personal identity information (PII) using blockchain technology.<br><br>Built with: Smart Contracts, REST APIs, Web UI<br><br>Use Case: Enables individuals to generate cryptographically secure tokens for PII, which organizations can verify without storing sensitive data.<br><br>Key Strength: Decentralized verification and tamper-proof integrity<br><br> <br>🧠 My Tech Stack & Interests<br>Languages: Python, JavaScript, HTML/CSS, Solidity<br><br>Frameworks: Flask, TailwindCSS, Node.js (learning)<br><br>Tools: Tor, VPNs, Git, VS Code, Blockchain explorers<br><br>Fields of Interest: Ethical hacking, smart contract development, AI for security, decentralized applications<br><br>
 
-<!--
-**anupraj024/anupraj024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anup-raj-p-b1834a2a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anupraj0042@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anupraj042&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anupraj042&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anupraj042&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=anupraj042&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
